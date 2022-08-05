@@ -51,6 +51,7 @@ void PrintArray(int[] coll)
         else Console.Write(coll[i_col]);
         i_col++;
     }
+    Console.WriteLine();
 }
 
 
